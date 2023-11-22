@@ -1,0 +1,7 @@
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\bin\Debug\Sorting and Searching.exe.config
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\bin\Debug\Sorting and Searching.exe
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\bin\Debug\Sorting and Searching.pdb
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\obj\Debug\Sorting and Searching.csproj.AssemblyReference.cache
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\obj\Debug\Sorting and Searching.csproj.CoreCompileInputs.cache
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\obj\Debug\Sorting and Searching.exe
+D:\mphasis\problem statement\simply learn projects\section 8,1.32\Sorting and Searching\Sorting and Searching\obj\Debug\Sorting and Searching.pdb
